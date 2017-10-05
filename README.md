@@ -8,7 +8,8 @@ Collection of NLP & AI papers
 - Siamese Recurrent Architectures for Learning Sentence Similarity: http://www.mit.edu/~jonasm/info/MuellerThyagarajan_AAAI16.pdf
 - Learning Text Similarity with Siamese Recurrent Networks: http://aclweb.org/anthology/W16-1617
 
-
-
 # AI related papers:
 - Mastering the game of Go with deep neural networks and tree search: https://storage.googleapis.com/deepmind-media/alphago/AlphaGoNaturePaper.pdf
+
+# Misc:
+- A few useful things to know about Machine Learning: https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf
